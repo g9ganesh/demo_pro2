@@ -1,1 +1,1 @@
-echo "this is test" > /opt/ramji
+echo "this is test" > /tmp/my_testfile
